@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- *selection sort - sorts an array of intergers ascending
+ *selection_sort - sorts an array of intergers ascending
  *@array: array to sort
  *@size: size of array
  *
