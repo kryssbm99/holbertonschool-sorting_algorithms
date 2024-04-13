@@ -17,7 +17,8 @@ void swap(int *a, int *b)
  *lomuto_partition - lomuto scheme
  *@array: array to sort
  *@low: start
- *@high: ending scheme
+ *@high: ending schem
+ *@size: Size of array
  *
  *Return: index
  */
